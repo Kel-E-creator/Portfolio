@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+        "name": "Hawksworth",
+        "image": "/Images/JadePlaceholder.jpg",
+        "location": "Nottingham",
+        "type": "Bathroom rennovation, part of the rennovation of the entire property"
+        },
+
+        {
+        "name": "Widcombe Terrace",
+        "location": "Bath",
+        "type": "Bootroom rennovation, one of two rooms rennovated in this property",  
+        "image": "/Images/JadePlaceholder.jpg"
+        },
+
+        {
+        "name": "Gay Street",
+        "location": "Bath",
+        "type": "Living room rennovation, part of the rennovation of the entire property",
+        "image": "/Images/JadePlaceholder.jpg"
+        }
+    ]
+}
