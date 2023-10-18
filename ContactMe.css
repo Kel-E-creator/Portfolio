@@ -1,0 +1,18 @@
+
+
+.mainText {
+    color:blue
+}
+
+.modal {
+    display: none;
+}
+
+.modal.visible {
+    display: block;
+}
+
+
+h1 {
+    color:blue
+}
