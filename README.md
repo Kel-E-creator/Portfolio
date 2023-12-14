@@ -12,6 +12,8 @@ The task - Create a website in the design of your choice, that features the foll
 * Kellie Marsh - @ Kel-E-Creator  
 
 ## Installation
-1. 
-2. 
-3.
+1. Clone this repo into a folder of your choice
+2. Move into this folder using 'cd' in the terminal
+3. In the terminal type 'code .' to open the file in Visual Studio Code
+4. In your browser type 'localhost:1234/Portfolio/
+
